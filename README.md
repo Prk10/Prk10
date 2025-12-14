@@ -20,7 +20,6 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <!---<img src="https://img.shields.io/badge/verilog-%23555555.svg?style=for-the-badge&logo=xilinx&logoColor=white" /> -->
   <br/>
 
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
@@ -37,7 +36,7 @@
   <br/><br/>
 
   <h2>📫 Connect with Me</h2>
-  
+   
   <a href="https://linkedin.com/in/prerana-ramkumar/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -45,10 +44,10 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
+  <br/><br/>
+
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
+
 </div>
 
 <hr/>
-
-<!---<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PreranaRamkumar&style=flat-square&color=blue" alt="Profile Views" />
-</div>-->
