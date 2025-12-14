@@ -1,16 +1,54 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Prk10/Prk10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1 style="font-size: 3rem; font-weight: bold;">Hi there, I'm Prerana Ramkumar 👋</h1>
 
-Here are some ideas to get you started:
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=AI+Researcher;Hardware+AI;Computer+Engineering+Student" alt="Typing SVG" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br/><br/>
+
+  <p style="font-size: 1.2rem;">
+    Explaining the intersection of <b>Artificial Intelligence</b> and <b>Hardware Acceleration</b>.<br>
+    Currently building efficient deep learning accelerators and optimizing neural networks.
+  </p>
+
+  <br/>
+
+  <h2>🛠️ Technology Stack</h2>
+
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/verilog-%23555555.svg?style=for-the-badge&logo=xilinx&logoColor=white" />
+  <br/>
+
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <br/>
+
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
+
+  <br/><br/>
+
+  <h2>📫 Connect with Me</h2>
+  
+  <a href="https://linkedin.com/in/prerana-ramkumar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:pprerana182@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+</div>
+
+<hr/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=PreranaRamkumar&style=flat-square&color=blue" alt="Profile Views" />
+</div>
