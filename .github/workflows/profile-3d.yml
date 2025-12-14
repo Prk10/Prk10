@@ -12,7 +12,10 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
-      - uses: Prk10/profile-3d@0.7.1
+      
+      # THIS WAS THE LINE CAUSING THE ERROR
+      # It must point to the tool creator (yoshi3891), not your username.
+      - uses: yoshi3891/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
