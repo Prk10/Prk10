@@ -3,7 +3,7 @@
   <h1 style="font-size: 3rem; font-weight: bold;">Hi there, I'm Prerana Ramkumar 👋</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=AI+Researcher;Hardware+AI;Computer+Engineering+Student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Machine+Learning+Researcher;Hardware+AI;Computer+Engineering+Student" alt="Typing SVG" />
   </a>
 
   <br/><br/>
