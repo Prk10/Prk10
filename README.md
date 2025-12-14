@@ -1,36 +1,54 @@
 <div align="center">
-  
-  <br />
 
-  <h1 style="font-size: 3.5rem; letter-spacing: -1px; margin-bottom: 0;">Prerana Ramkumar</h1>
-  
+  <h1 style="font-size: 3rem; font-weight: bold;">Prerana Ramkumar</h1>
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=28&duration=4000&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Researcher;Hardware+Acceleration+Specialist;Computer+Engineering+Student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Machine+Learning+Researcher;Hardware+AI;Computer+Engineering+Student" alt="Typing SVG" />
   </a>
 
-  <br /><br />
+  <br/><br/>
 
-  <p style="font-size: 1.1rem; color: #8b949e; max-width: 600px;">
-    Designing the architecture of the future, one chip at a time. <br/>
-    Specializing in <b>Deep Learning Accelerators</b> and <b>RISC-V Systems</b>.
+  <p style="font-size: 1.2rem;">
+    Explaining the intersection of <b>Artificial Intelligence</b> and <b>Hardware Acceleration</b>.<br>
+    Currently building efficient deep learning accelerators and optimizing neural networks.
   </p>
 
-  <br /><br />
+  <br/>
 
-  <table align="center" border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td width="50%" align="center" style="padding-right: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Prk10&show_icons=true&count_private=true&hide_border=true&theme=transparent&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&bg_color=0d1117" alt="GitHub Stats" />
-      </td>
-      <td width="50%" align="center" style="padding-left: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prk10&hide=html,css,scss&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&bg_color=0d1117" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <h2>🛠️ Technology Stack</h2>
 
-  <br /><br />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <!---<img src="https://img.shields.io/badge/verilog-%23555555.svg?style=for-the-badge&logo=xilinx&logoColor=white" /> -->
+  <br/>
 
-  <h3 style="color: #58A6FF;">Contribution Topography</h3>
-  <img src="https://github.com/INSERT_GITHUB_USERNAME_HERE/INSERT_GITHUB_USERNAME_HERE/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="850" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <br/>
+
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
+
+  <br/><br/>
+
+  <h2>📫 Connect with Me</h2>
+  
+  <a href="https://linkedin.com/in/prerana-ramkumar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:pprerana182@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
 </div>
+
+<hr/>
+
+<!---<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=PreranaRamkumar&style=flat-square&color=blue" alt="Profile Views" />
+</div>-->
