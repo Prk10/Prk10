@@ -20,10 +20,10 @@
   <table align="center" border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td width="50%" align="center" style="padding-right: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=INSERT_GITHUB_USERNAME_HERE&show_icons=true&count_private=true&hide_border=true&theme=transparent&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&bg_color=0d1117" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Prk10&show_icons=true&count_private=true&hide_border=true&theme=transparent&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&bg_color=0d1117" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center" style="padding-left: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=INSERT_GITHUB_USERNAME_HERE&hide=html,css,scss&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&bg_color=0d1117" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prk10&hide=html,css,scss&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&bg_color=0d1117" alt="Top Languages" />
       </td>
     </tr>
   </table>
